@@ -194,8 +194,7 @@ Template("items.csv", row =>
         // select masked item with random snr
         masking = [row.mask0, row.mask4, row.mask8, row.mask_4, row.mask_8].sort(v => 0.5-Math.random())
         ,
-        // shuffle order of masked and unmasked
-        axb_seq = [masking[0], row.nomask_cluster, masking[1]].sort(v => 0.5-Math.random())
+        axb_seq = [masking[0], row.nomask_cluster, masking[1]]
         ,
         // start trial
         newText("fixcross", "+") // create a fixation cross
