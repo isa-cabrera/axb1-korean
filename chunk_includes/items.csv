@@ -1,0 +1,9 @@
+group	item_id	condition	nomask_cluster	mask0	mask4	mask8	mask_4	mask_8	ax_repair	AX_gold
+A	1	exp	napkin.wav	napkin_masked0.wav	napkin_masked4.wav	napkin_masked8.wav	napkin_masked_4.wav	napkin_masked_8.wav	ulna.wav	same
+A	2	exp	picnic.wav	picnic_masked0.wav	picnic_masked4.wav	picnic_masked8.wav	picnic_masked_4.wav	picnic_masked_8.wav	sitcom.wav	same
+A	3	exp	aspire.wav	aspire_masked0.wav	aspire_masked4.wav	aspire_masked8.wav	aspire_masked_4.wav	aspire_masked_8.wav	ulna.wav	same
+A	4	exp	after.wav	after_masked0.wav	after_masked4.wav	after_masked8.wav	after_masked_4.wav	after_masked_8.wav	sitcom.wav	same
+B	1	exp	napkin.wav	napkin_masked0.wav	napkin_masked4.wav	napkin_masked8.wav	napkin_masked_4.wav	napkin_masked_8.wav	ulna.wav	same
+B	2	exp	picnic.wav	picnic_masked0.wav	picnic_masked4.wav	picnic_masked8.wav	picnic_masked_4.wav	picnic_masked_8.wav	sitcom.wav	same
+B	3	exp	aspire.wav	aspire_masked0.wav	aspire_masked4.wav	aspire_masked8.wav	aspire_masked_4.wav	aspire_masked_8.wav	ulna.wav	same
+B	4	exp	after.wav	after_masked0.wav	after_masked4.wav	after_masked8.wav	after_masked_4.wav	after_masked_8.wav	sitcom.wav	same
